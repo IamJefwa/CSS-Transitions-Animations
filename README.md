@@ -7,4 +7,6 @@ This project demonstrates:
 
 ## Files:
 - `index.html`: Contains the example code with CSS transitions, animations, and JavaScript functionality.
+- `styles.css`: Defines the styling, transitions, and keyframe animations used in the project.
+- `script.js`: Manages user interactions and handles `localStorage` operations.
 - `README.md`: This file describing the project.
